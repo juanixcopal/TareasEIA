@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(5, 5, 5);
+    background-color: rgb(36, 113, 163);
     color: whitesmoke;
 }
 
@@ -16,7 +16,7 @@ body{
     font-size: 30px;
     width: 320px;
     color: thistle;
-    background-color: rgb(23, 23, 102, 0.89);
+    background-color: rgba(31, 173, 66, 0.89);
     border-radius: 3px;
 }
 

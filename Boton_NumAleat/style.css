@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(5, 5, 5);
+    color: whitesmoke;
+}
+
+#app{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#btn{
+    margin-top: 200px;
+    cursor: pointer;
+    font-size: 30px;
+    width: 320px;
+    color: thistle;
+    background-color: rgb(23, 23, 102, 0.89);
+    border-radius: 3px;
+}
+
+#caja{
+    width: 150px;
+    height: 75px;
+    font-size: 60px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid whitesmoke;
+    margin-top: 20px;
+}

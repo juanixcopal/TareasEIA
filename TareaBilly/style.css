@@ -1,0 +1,60 @@
+#titulo{
+    color:black;
+    text-align: center;
+    font-size: 40px;
+}
+
+#linea1{
+    width: 25%;
+    text-align: center;
+}
+
+.texto{
+    color:coral;
+    text-align: center;
+}
+
+#linea2{
+    width: 25%;
+    text-align: center;
+}
+
+.parrafo1{
+    text-align: left;
+}
+
+#linea3{
+    color:black;
+    text-align: center;
+    width: 100%;
+    border: dotted;
+}
+
+.texto2{
+    color:black;
+    text-align: left;
+}
+
+#linea4{
+    color:black;
+    text-align: center;
+    width: 100%;
+    border: dotted;
+}
+
+#imagen{
+    border-style: groove;
+    border-width: 1ch;
+}
+
+.centrado{
+    margin: left;
+}
+
+img{
+    float: left;
+}
+
+#parrafoFinal{
+    text-align: left;
+}
